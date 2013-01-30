@@ -1,0 +1,19 @@
+0
+0
+30
+180
+35
+180
+35
+70
+
+
+File Structure:
+calibration servo1 
+calibration servo2 
+minimum Servo1
+maximum Servo1
+minimum Servo2
+maximum Servo2
+Servo 3 PenDown
+Servo 3 PenUp

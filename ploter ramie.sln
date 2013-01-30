@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ploter ramie", "ploter ramie\ploter ramie.csproj", "{7464E54D-0353-4FDF-9779-F07BE45F1C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arduino", "..\Arduino\Arduino\Arduino.csproj", "{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Debug|x86.ActiveCfg = Debug|x86
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Debug|x86.Build.0 = Debug|x86
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Release|x86.ActiveCfg = Release|Any CPU
+		{7464E54D-0353-4FDF-9779-F07BE45F1C48}.Release|x86.Build.0 = Release|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Release|x86.ActiveCfg = Release|Any CPU
+		{9EC4D6E9-C1B6-4388-827B-C8CEB7763035}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
